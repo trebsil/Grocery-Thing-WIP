@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS grocery_ph;
-USE grocery_ph;
+CREATE DATABASE IF NOT EXISTS grocery_fr;
+USE grocery_fr;
 
 CREATE TABLE grocery_items (
     item_id        INT AUTO_INCREMENT PRIMARY KEY,
